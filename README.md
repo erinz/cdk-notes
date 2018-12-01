@@ -5,11 +5,12 @@ AWS CDK is a new open-source tool to create AWS infrastructure resource easily a
 
 ## 2. Determine scope
 
-### Learn the basics, understand the basic components AWS CDK has to offer.
-### Create first CDK app and install the AWS CDK toolkit to interact with CDK apps.
-### Use AWS Construct Libary, create a simple project with CDK and deploy to AWS.
-### Create CI/CD pipeline of deploying code change to production preview app at AWS within seconds.
-### Comprae AWS CDK with [Terraform](https://www.terraform.io/) 
+- Learn the basics, understand the basic components AWS CDK has to offer.
+- Create first CDK app and install the AWS CDK toolkit to interact with CDK apps.
+- Use AWS Construct Libary, create a simple project with CDK and deploy to AWS.
+- Familiar with AWS CodeSuite and how to use if for CI/CD.
+- Create CI/CD pipeline of deploying code change to production preview app at AWS within seconds.
+- Comprae AWS CDK with [Terraform](https://www.terraform.io/) 
 
 ## 3. Determine success
 Familiar with building AWS infrastructure resource using CDK, set up a CI/CD pipeline of deploying code change to AWS (code -> preview) within seconds.
