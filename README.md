@@ -24,5 +24,9 @@ Familiar with building AWS infrastructure resource using CDK, set up a CI/CD pip
 * https://github.com/clareliguori/trivia-api
 
 ## 5. Create a learning plan
+- AWS CDK [Get Started](https://awslabs.github.io/aws-cdk/getting-started.html), install CDK locally and create a simple CDK App.
+- Define own project, working locally. Create CDK App to set up infrastructure.
+- AWS Code Suite GetStarted and play around.
+- Set up CI/CD with CodeSuite.
 
 ## 6. Filter resources
